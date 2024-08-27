@@ -1,4 +1,4 @@
-namespace WebApi.Models.ApiModels;
+namespace HubService.Contracts.ApiModels;
 
 public class HubApiModel
 {

@@ -1,4 +1,4 @@
-namespace WebApi.Models.Request;
+namespace HubService.Contracts.Request;
 
 public class UpdateHubRequest
 {

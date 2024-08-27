@@ -1,4 +1,4 @@
-namespace WebApi.Models.Response;
+namespace HubService.Contracts.Response;
 
 public class GetHubByIdResponse
 {

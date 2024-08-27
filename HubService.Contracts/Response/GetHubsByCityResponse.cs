@@ -1,6 +1,6 @@
-using WebApi.Models.ApiModels;
+using HubService.Contracts.ApiModels;
 
-namespace WebApi.Models.Response;
+namespace HubService.Contracts.Response;
 
 public class GetHubsByCityResponse
 {
